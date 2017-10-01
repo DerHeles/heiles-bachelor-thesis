@@ -1,1 +1,3 @@
-# Bachelor_NeuronVive
+Bachelor thesis of Tobias Heiles
+
+Trier University of Applied Sciences
